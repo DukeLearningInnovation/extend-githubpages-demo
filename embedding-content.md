@@ -18,7 +18,7 @@
 
 #### Youtube
 {% raw %}
-<iframe height="360" width="640" src="https://www.youtube.com/watch?v=oW6PfbZhvQI\" frameborder="0" scrolling="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oW6PfbZhvQI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 {% endraw %}
 
 
@@ -41,7 +41,7 @@
 
 #### Gist
 {% raw %}
-  <iframe src="https://gist.github.com/vinkrish/33b162bbef2220b3e746f4a2c2c65e4b" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
+  <script src="https://gist.github.com/vinkrish/33b162bbef2220b3e746f4a2c2c65e4b.js"></script> 
 {% endraw %}
 
 
