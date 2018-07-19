@@ -5,7 +5,9 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="640" height="600" src="https://duke.qualtrics.com/jfe/form/SV\_9zd8c4V0ZN2dP8x"></iframe>
 {% endraw %}
 ####  Box Notes
-
+{% raw %}
+<iframe src="https://duke.app.box.com/embed/s/4ab7o7fr1189yxhd08gj9736yuom7r4t" width="800" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+{% endraw %}
 [https://duke.box.com/s/4ab7o7fr1189yxhd08gj9736yuom7r4t](https://duke.box.com/s/4ab7o7fr1189yxhd08gj9736yuom7r4t)
 
 
@@ -13,6 +15,7 @@
 {% raw %}
 <iframe height="360" width="640" src="https://warpwire.duke.edu/w/txoCAA/" frameborder="0" scrolling="0" allowfullscreen></iframe>
 {% endraw %}
+
 #### Youtube
 {% raw %}
 <iframe height="360" width="640" src="https://www.youtube.com/watch?v=oW6PfbZhvQI\" frameborder="0" scrolling="0" allowfullscreen></iframe>
@@ -26,7 +29,9 @@
 
 
 #### Box PDF
-
+{% raw %}
+<iframe src="https://duke.app.box.com/embed/s/rprfu0ad6jf2ukuu2sefwka5vbzm146c" width="800" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+{% endraw %}
 [https://duke.box.com/v/loremipsum](https://duke.box.com/v/loremipsum)
 
 #### Box Image
