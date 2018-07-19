@@ -4,7 +4,9 @@ description: 'Pasted from https://markdown-it.github.io/'
 
 # Markdown Demo
 
-## Markdown
+[embedding-content](embedding-content)
+
+Pasted from https://markdown-it.github.io/
 
 😀
 **Advertisement :\)**
